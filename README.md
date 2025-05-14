@@ -1,11 +1,12 @@
 # 👋 Hi, I’m @cdurkin35
 
 ### About me:
-- I am a computer engineering student in the Wertheim College of Engineering at the University of Florida. 
-- I have experience building projects with Python, C++, Java and JavaScript.
+- I am a computer engineering student at the Wertheim College of Engineering at the University of Florida. 
+- I have experience building projects with Python, C, C++, Rust, Java, and JavaScript.
 
 ### Interests:
 - Machine learning and artificial intelligence
+- Embedded systems
 - Linux
-- Software Engineering
 - Computer Hardware
+- Robotics
